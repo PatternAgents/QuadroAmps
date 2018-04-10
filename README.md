@@ -24,7 +24,7 @@ It is in a "Quad" (4x4) configuration of
 - (4) Outputs , converted from 3.3V microprocessor Level to Eurorack 
 
 
-[![PatternAgents QuadroAmps](https://github.com/PatternAgents/QuadroAmps/blob/master/QuadroAmps/images/QuadroAmps_top.png?raw=true)QuadroAmps](https://github.com/patternagents/QuadroAmps)
+[![PatternAgents QuadroAmps](https://github.com/PatternAgents/QuadroAmps/blob/master/QuadroAmps/images/QuadroAmps.png?raw=true)QuadroAmps](https://github.com/patternagents/QuadroAmps)
 
 [![PatternAgents QuadroAmps](https://github.com/PatternAgents/QuadroAmps/blob/master/QuadroAmps/images/QuadroAmps_bot.png?raw=true)QuadroAmps](https://github.com/patternagents/QuadroAmps)
 
